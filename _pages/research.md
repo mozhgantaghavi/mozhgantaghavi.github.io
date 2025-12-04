@@ -22,9 +22,9 @@ Building on my mathematical and computational foundation, I am currently focused
 
 **Research interests:**
   - mathematical modelling
-  - optimization
   - machine learning
   - mathematics in AI
+  - optimization
   - numerical analysis
   - differential equations
   - mathematical biology
