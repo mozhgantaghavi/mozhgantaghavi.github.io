@@ -1,11 +1,11 @@
 ---
 layout: page
-title: publications & projects
-permalink: /publications & projects/
-description: This is my research output
+title: courses
+permalink: /courses/
+description: This is my course
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+#display_categories: [work, fun]
 horizontal: false
 ---
 
