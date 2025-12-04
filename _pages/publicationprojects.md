@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Contributions
+title: Publications and Projects
 permalink: /publications and projects/
 #description: This is my research output
 nav: true
