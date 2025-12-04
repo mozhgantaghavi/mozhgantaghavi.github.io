@@ -10,8 +10,8 @@ profile:
   image: prof_pic1.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Mozhgan Taghavi</p>
-    <p>A researcher in applied mathematics and artificial intelligence</p>
+    <p> A researcher in applied mathematics </p>
+    <p> and artificial intelligence </p>
     <p>mojgan.taghavi88@gmail.com</p>
 
 #selected_papers: false # includes a list of papers marked as "selected={true}"
