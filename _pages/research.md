@@ -28,7 +28,9 @@ Prospectively, I aim to develop frameworks that connect theoretical concepts, co
   - mathematics in AI
   - optimization
   - numerical analysis
-  - differential equations
-  - mathematical biology
+  - Differential equations and dynamical systems
+  - Computational modelling for engineering and physical systems
+  - Applications in environmental, geophysical, and biological systems
+
 
 
