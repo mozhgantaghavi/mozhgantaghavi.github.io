@@ -23,14 +23,16 @@ Building on my mathematical and computational foundation, I am currently focused
 Prospectively, I aim to develop frameworks that connect theoretical concepts, computational methods, and machine learning to practical applications. I am motivated to create models and tools resulting in more reliable predictions and foster advancements across various fields. My ultimate goal is to translate abstract mathematical concepts into real-world solutions with measurable impact.
 
 **Research interests:**
-  - mathematical modelling
-  - machine learning
-  - mathematics in AI
-  - optimization
-  - numerical analysis
+  - Mathematical modelling
+  - Machine Learning
+  - Physics-informed neural networks
+  - Mathematics in AI
+  - Optimization
+  - Numerical analysis
   - Differential equations and dynamical systems
   - Computational modelling for engineering and physical systems
   - Applications in environmental, geophysical, and biological systems
+
 
 
 
