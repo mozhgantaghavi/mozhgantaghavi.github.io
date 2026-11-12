@@ -6,24 +6,62 @@ title: Teaching
 nav: true
 nav_order: 6
 ---
-Teaching has always been one of my strongest passions. My teaching roles have enabled me to guide students in developing both solid theoretical foundations and practical problem-solving skills. I try to improve analytical thinking and build their confidence by presenting complex concepts in clear, accessible terms.
 
-#### University Teaching
+{% include pp-style.liquid %}
 
-###### Lecturer 
-- Shahid Beheshti University, 2021–2023.
-- Designed and delivered lectures for **Calculus** to undergraduate students (average 30 per semester), incorporating innovative teaching methods to enhance understanding and engagement.
+<div class="pp">
 
-###### Teaching Assistant
-- Shahid Beheshti University, 2019–2021.
-- Supported instruction for **Calculus** by leading problem‑solving sessions for groups of 30 students per semester.
+<p class="pp-lead">Teaching has always been one of my greatest passions. In my teaching roles I have helped students build a strong theoretical base together with practical problem-solving skills. I explain complex ideas in clear and simple terms, because I believe this develops analytical thinking and gives students confidence.</p>
 
-###### Lecturer 
-- Buein Zahra Technical University, 2014–2018.
-- Instructed undergraduate courses in *Calculus*, *Ordinary Differential Equations*, and *Introduction to Computer Programming* (average 40 students per semester), focusing on building both analytical and computational skills.
+<div class="pp-stats">
+  <div class="pp-stat"><b>3</b><span>University roles</span></div>
+  <div class="pp-stat"><b>2</b><span>Universities</span></div>
+  <div class="pp-stat"><b>2014</b><span>Teaching since</span></div>
+</div>
 
-#### Volunteer Teaching
+<div class="pp-section"><i class="fa-solid fa-building-columns"></i><h2>University teaching</h2></div>
 
-- Khaneh Mehr Ali Charity, 2017–2019.
-- Vesal Educational Charity, 2025–Present.
-- Provided mathematics and reading instruction to childern, strengthening foundational skills and supporting their educational development.
+<div class="pp-card">
+  <span class="pp-year">2021–2023</span>
+  <h3>Lecturer</h3>
+  <p class="pp-meta">Shahid Beheshti University</p>
+  <ul>
+    <li>Prepared and delivered lectures for <b>Calculus</b> to undergraduate students, about 30 per semester.</li>
+    <li>Used creative teaching methods to improve understanding and keep students engaged.</li>
+  </ul>
+  <div class="pp-tags"><span class="pp-tag">Calculus</span></div>
+</div>
+
+<div class="pp-card">
+  <span class="pp-year">2019–2021</span>
+  <h3>Teaching Assistant</h3>
+  <p class="pp-meta">Shahid Beheshti University</p>
+  <ul>
+    <li>Supported the <b>Calculus</b> course by leading problem-solving sessions for groups of about 30 students each semester.</li>
+  </ul>
+  <div class="pp-tags"><span class="pp-tag">Calculus</span><span class="pp-tag">Problem solving</span></div>
+</div>
+
+<div class="pp-card">
+  <span class="pp-year">2014–2018</span>
+  <h3>Lecturer</h3>
+  <p class="pp-meta">Buein Zahra Technical University</p>
+  <ul>
+    <li>Taught undergraduate courses in <b>Calculus</b>, <b>Ordinary Differential Equations</b> and <b>Introduction to Computer Programming</b>, with about 40 students per semester.</li>
+    <li>Focused on developing both analytical and computational skills in my students.</li>
+  </ul>
+  <div class="pp-tags"><span class="pp-tag">Calculus</span><span class="pp-tag">Ordinary differential equations</span><span class="pp-tag">Programming</span></div>
+</div>
+
+<div class="pp-section"><i class="fa-solid fa-hand-holding-heart"></i><h2>Volunteer teaching</h2></div>
+
+<div class="pp-card">
+  <h3>Teaching children in charity institutions</h3>
+  <p>I taught mathematics and reading to children, to strengthen their basic skills and support their education.</p>
+  <ul>
+    <li><b>Khaneh Mehr Ali Charity</b>, 2017–2019</li>
+    <li><b>Vesal Educational Charity</b>, 2025–present</li>
+  </ul>
+</div>
+
+</div>

@@ -9,33 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<style>
-  .pp { --pp-accent: var(--global-theme-color); }
-  .pp-lead { font-size: 1.08rem; line-height: 1.75; max-width: 52rem; margin-bottom: 2rem; color: var(--global-text-color); }
-  .pp-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 14px; margin-bottom: 2.6rem; }
-  .pp-stat { background: var(--global-card-bg-color); border: 1px solid var(--global-divider-color); border-radius: 14px; padding: 16px 18px; text-align: center; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05); }
-  .pp-stat b { display: block; font-size: 2rem; line-height: 1.1; color: var(--pp-accent); }
-  .pp-stat span { font-size: 0.82rem; letter-spacing: 0.04em; text-transform: uppercase; color: var(--global-text-color-light); }
-  .pp-section { display: flex; align-items: center; gap: 12px; margin: 2.8rem 0 1.2rem; }
-  .pp-section h2 { margin: 0; font-size: 1.45rem; font-weight: 600; }
-  .pp-section::after { content: ""; flex: 1; height: 1px; background: var(--global-divider-color); }
-  .pp-section i { color: var(--pp-accent); font-size: 1.3rem; }
-  .pp-card { position: relative; background: var(--global-card-bg-color); border: 1px solid var(--global-divider-color); border-left: 5px solid var(--pp-accent); border-radius: 14px; padding: 18px 22px; margin-bottom: 16px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05); transition: transform 0.18s ease, box-shadow 0.18s ease; }
-  .pp-card:hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12); }
-  .pp-card h3 { font-size: 1.12rem; font-weight: 600; line-height: 1.45; margin: 0 0 6px; }
-  .pp-card p { margin: 0 0 6px; line-height: 1.65; }
-  .pp-meta { font-size: 0.92rem; color: var(--global-text-color-light); }
-  .pp-year { display: inline-block; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.05em; padding: 2px 11px; border-radius: 999px; background: var(--pp-accent); color: var(--global-hover-text-color); margin-bottom: 8px; }
-  .pp-tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 4px; }
-  .pp-tag { font-size: 0.76rem; padding: 2px 10px; border-radius: 999px; border: 1px solid var(--pp-accent); color: var(--pp-accent); }
-  .pp-links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
-  .pp-btn { display: inline-flex; align-items: center; gap: 7px; padding: 6px 16px; border-radius: 999px; border: 1px solid var(--pp-accent); color: var(--pp-accent) !important; font-size: 0.88rem; text-decoration: none !important; transition: background 0.15s ease, color 0.15s ease; }
-  .pp-btn:hover { background: var(--pp-accent); color: var(--global-hover-text-color) !important; }
-  .pp-url { font-size: 0.8rem; color: var(--global-text-color-light); margin-top: 8px; word-break: break-all; }
-  .pp-feature { border-left-width: 5px; background: linear-gradient(135deg, var(--global-card-bg-color), var(--global-card-bg-color)); }
-  .pp-badge { float: right; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--pp-accent); border: 1px solid var(--pp-accent); border-radius: 6px; padding: 1px 8px; margin-left: 10px; }
-  @media (max-width: 576px) { .pp-card { padding: 16px; } .pp-badge { float: none; display: inline-block; margin: 0 0 8px; } }
-</style>
+{% include pp-style.liquid %}
 
 <div class="pp">
 
