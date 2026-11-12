@@ -34,4 +34,6 @@ I have contributed to both theoretical and applied research across numerical ana
 ***Numerical Method for a Zero-Dimensional Lumped-Parameter Blood Flow Model***, 2025.
 
 ***TumorPINN Lab: Inferring Tumour-Growth Parameters with Legendre Spectral Solvers, CNNs and Physics-Informed Neural Networks***, 2026.
-Recovers the diffusivity and proliferation rate of Fisher–KPP tumour-growth models from noisy data, comparing a CNN, spectral least squares, a PINN and a CNN-initialised PINN, with GPU-batched growth-law fits on public mouse tumour data. [Code](https://github.com/mozhgantaghavi/tumor-growth-pinn) · [Interactive dashboard](https://mozhgantaghavi.github.io/tumor-growth-pinn/)
+Recovers the diffusivity and proliferation rate of Fisher–KPP tumour-growth models from noisy data, comparing a CNN, spectral least squares, a PINN and a CNN-initialised PINN, with GPU-batched growth-law fits on public mouse tumour data. 
+GitHub repository: [https://github.com/mozhgantaghavi/tumor-growth-pinn](https://github.com/mozhgantaghavi/tumor-growth-pinn)  
+Interactive dashboard: [https://mozhgantaghavi.github.io/tumor-growth-pinn/](https://mozhgantaghavi.github.io/tumor-growth-pinn/)
